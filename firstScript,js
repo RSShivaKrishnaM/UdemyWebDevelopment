@@ -1,0 +1,5 @@
+for(let i = 0; i<10; i++){
+    let j = 'shiva';
+    let k = 10.01;
+    console.log("Hello from first script!!"+j+k)
+}
